@@ -4,4 +4,5 @@
   <img src="banner.png" >
 </p>
 
-# Repositório com as bases de dados utilizadas em meus projetos.
+# Datasets
+Repositório com os dados utilizados em meus projetos.
